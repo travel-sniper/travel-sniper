@@ -1,0 +1,13 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+travelsniper/local_settings.py
+travelsniper/static
+media
+db.sqlite3
+/static
+/template/
+zappa_settings.json
+*migrations/*
